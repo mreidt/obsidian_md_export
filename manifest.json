@@ -1,0 +1,10 @@
+{
+  "id": "base64-image-embedder",
+  "name": "Obsidian MD file export plugin",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Exports the current note as a new Markdown file with all local images embedded as Base64 strings.",
+  "author": "Matheus",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+
+# macOS specific
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build output 
+# (Note: If you plan to release this plugin on GitHub, you will eventually 
+# need to commit main.js and manifest.json to the release branch)
+# main.js
